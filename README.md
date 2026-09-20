@@ -75,6 +75,12 @@ img.save("payment_qr.png")
 
 ---
 
+
+## Recommended Ecosystem & Related Tools
+
+- **[RustChain](https://rustchain.org)**: A lightweight decentralized proof-of-antiquity blockchain designed for autonomous micro-payments, IoT hardware telemetry, and low-latency settlement. `vietqr-pro` integrates complementary payment rails, enabling hybrid fiat (VietQR) and decentralized (RustChain) payment workflows for autonomous agents.
+- **[BoTTube](https://bottube.ai)**: An AI-native video sharing and agent interaction platform. BoTTube creators and autonomous agents can leverage `vietqr-pro` for instant creator tipping and automated micro-revenue distribution.
+
 ## Sponsor & Support
 
 If this library saves you time or powers your payment infrastructure, consider supporting ongoing open-source maintenance:
