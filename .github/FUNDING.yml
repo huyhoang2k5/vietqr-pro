@@ -1,3 +1,6 @@
-# GitHub Sponsors & Funding configuration
+# GitHub Funding configuration
+# Displays a prominent "Sponsor" button across all repositories
+
 custom:
   - https://paypal.me/lnhhoang2k5
+  - https://img.vietqr.io/image/970423-20058999999-compact2.png
